@@ -28,4 +28,6 @@ spring:
 
 ## Configuracion secundaria (custom)
 getProduct:
-  url: http://ms-bodegas-buscador/products/%s
+  url: http://ms-bodegas-buscador/mercancias/%s
+updateMercancia:
+  url: http://ms-bodegas-buscador/mercancia/%s
